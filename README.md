@@ -28,7 +28,8 @@
 - 🌐 Last Projects in <a href='www.ayoubdahhane.com'>My Portfolio</a>
 - 🧑‍💼 To know more about Me Check <a href='https://cvdesignr.com/p/6579bcfcbd085'>My Resume</a>&nbsp;‎!
 - :handshake: <a href='mailto:business.dahhaneayoub@gmail.com'>**For Business**</a>
-- 💬 Got questions? <a href='instagram.com/dahhaneayoubdev'>Ask me anything</a>&nbsp;‎!
+- 💬 Got questions? 
+<a href="https://instagram.com/dahhaneayoubdev">Ask me anything</a>&nbsp;‎!
 
 ✨ I believe that : `every challenge is an opportunity to learn`.
 <br><br><br>
@@ -81,21 +82,26 @@
 <!--Connect-->
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif"></picture> 
 <p align="center">
-<a href="https://linkedin.com/in/dahhaneayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahhaneayoub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ayoubdahhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayoubdahhane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayoubdahhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahhaneayoub" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29169320/ayoub-dahhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayoubdahhane" height="30" width="40" /></a>
 <a href="https://twitter.com/dahhaneayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahhaneayoub" height="30" width="40" /></a>
 <a href="https://fb.com/dahhaneayoub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dahhaneayoub1" height="30" width="40" /></a>
 <a href="https://instagram.com/dahhaneayoubdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahhaneayoubdev" height="30" width="40" /></a>
 <a href="https://discord.gg/ggre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ggre" height="30" width="40" /></a>
 </p>
+<br><br>
 
-## 🙏 Support :
+## ☕ Support My Work :
 
-<p><a href="https://www.buymeacoffee.com/ayoubdahhane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayoubdahhane" /></a></p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ayoubdahhane"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayoubdahhane" /></a>
+</p>
+
 <br><br><br>
 
 <!--- stats & Trophy (start) -->
 
+## :octocat: GitHub Stats :
 <p align="left">
   <!--- stats (start) -->
 <table align="left">
@@ -142,7 +148,7 @@
 
 -----------
 
-Credit : [Ayoub DAHHANE](https://github.com/ayoubdahhane) <br>
-Last Edit On : 12-01-2025 ✅
+Credit : [Ayoub DAHHANE](https://github.com/ayoubdahhane) ✨ <br>
+Last Edit On : 13-01-2025 ✔️
 
 
