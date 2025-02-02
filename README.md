@@ -13,7 +13,7 @@
 
 <!--Typing Description-->
 <p align='center'>
-<a href="https://github.com/ayoubdahhane"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Allaikum+WaRahmatullah+..%E2%9D%A4;Full-Stack+Web+Developer%2C;UI%2FUI+Designer%2C;Flutter+Mobile+Learner%2C;Active+Learner%2FResearcher;I+Love+to+Learn+New+Stuffs+..%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://github.com/ayoubdahhane"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assalamu+Allaikum+WaRahmatullah+..%E2%9D%A4;Full-Stack+Developer%2C;UI%2FUI+Designer%2C;Flutter+Enthusiast%2C;Active+Learner%2FResearcher;I+Love+to+Learn+New+Stuffs+..%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
 <!--About Me & tr-->
