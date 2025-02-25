@@ -82,7 +82,7 @@
 <!--Connect-->
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif"></picture> 
 <p align="center">
-<a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayoubdahhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahhaneayoub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayoubdahhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahhaneayoub" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29169320/ayoub-dahhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayoubdahhane" height="30" width="40" /></a>
 <a href="https://twitter.com/dahhaneayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahhaneayoub" height="30" width="40" /></a>
 <a href="https://fb.com/dahhaneayoub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dahhaneayoub1" height="30" width="40" /></a>
