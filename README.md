@@ -94,7 +94,7 @@
 ## ☕ Support My Work :
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/ayoubdahhane"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayoubdahhane" /></a>
+<a href="https://paypal.me/ayoubdahhane?country.x=MA&locale.x=fr_XC"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayoubdahhane" /></a>
 </p>
 
 <br><br><br>
