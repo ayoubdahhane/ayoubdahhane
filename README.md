@@ -27,9 +27,9 @@
 - :writing_hand: Check out my <a href='https://web.facebook.com/groups/devdarijamaroc'>Latest articles</a>&nbsp;‎!
 - 🌐 Last Projects in <a href='www.ayoubdahhane.com'>My Portfolio</a>
 - 🧑‍💼 To know more about Me Check <a href='https://cvdesignr.com/p/6579bcfcbd085'>My Resume</a>&nbsp;‎!
-- :handshake: <a href='mailto:business.dahhaneayoub@gmail.com'>**For Business**</a>
+- :handshake: <a href='mailto:contact@ayoubdahhane.me'>**For Business**</a>
 - 💬 Got questions? 
-<a href="https://instagram.com/dahhaneayoubdev">Ask me anything</a>&nbsp;‎!
+<a href="https://instagram.com/devad_off">Ask me anything</a>&nbsp;‎!
 
 ✨ I believe that : `every challenge is an opportunity to learn`.
 <br><br><br>
@@ -95,7 +95,7 @@
 <a href="https://stackoverflow.com/users/29169320/ayoub-dahhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayoubdahhane" height="30" width="40" /></a>
 <a href="https://twitter.com/dahhaneayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahhaneayoub" height="30" width="40" /></a>
 <a href="https://fb.com/dahhaneayoub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dahhaneayoub1" height="30" width="40" /></a>
-<a href="https://instagram.com/dahhaneayoubdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahhaneayoubdev" height="30" width="40" /></a>
+<a href="https://instagram.com/devad_off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahhaneayoubdev" height="30" width="40" /></a>
 <a href="https://discord.gg/ggre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ggre" height="30" width="40" /></a>
 </p>
 <br><br>
@@ -149,7 +149,7 @@
 
 <div align="center">
 
-## <b>أستودعُكم اللهَ الذي لا تضيعُ ودائِعُهُ...</b>
+## <b>أستودعُكم اللهَ الذي لا تَفْنَى ودائِعُهُ...</b>
 
 [![](https://visitcount.itsvg.in/api?id=ayoubdahhane&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
@@ -157,7 +157,7 @@
 
 -----------
 
-Credit : [Ayoub DAHHANE](https://github.com/ayoubdahhane) ✨ <br>
-Last Edit On : 04-04-2025 ✔️
+Credit : [DevAD](https://github.com/ayoubdahhane) ✨ <br>
+Last Edit On : 31-05-2026 ✔️
 
 
