@@ -26,7 +26,7 @@
 - 📝 Learning `Flutter Mobile`.
 - :writing_hand: Check out my <a href='https://web.facebook.com/groups/devdarijamaroc'>Latest articles</a>&nbsp;‎!
 - 🌐 Last Projects in <a href='www.ayoubdahhane.com'>My Portfolio</a>
-- 🧑‍💼 To know more about Me Check <a href='https://cvdesignr.com/p/6579bcfcbd085'>My Resume</a>&nbsp;‎!
+- 🧑‍💼 To know more about Me Check <a href='https://cvdesignr.com/p/6883d7b79bbe8'>My Resume</a>&nbsp;‎!
 - :handshake: <a href='mailto:contact@ayoubdahhane.me'>**For Business**</a>
 - 💬 Got questions? 
 <a href="https://instagram.com/devad_off">Ask me anything</a>&nbsp;‎!
