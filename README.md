@@ -174,7 +174,7 @@
 
 -----------
 
-Credit : [DevAD](https://github.com/ayoubdahhane) ✨ <br>
+Credit : [DEVAD](https://github.com/ayoubdahhane) ✨ <br>
 Last Edit On : 31-05-2026 ✔️
 
 
